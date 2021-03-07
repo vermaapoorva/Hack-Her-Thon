@@ -1,0 +1,32 @@
+{
+  "name": "hack-her-thon",
+  "version": "1.0.0",
+  "description": "Hack-Her-Thon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermaapoorva/Hack-Her-Thon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermaapoorva/Hack-Her-Thon/issues"
+  },
+  "homepage": "https://github.com/vermaapoorva/Hack-Her-Thon#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "bootstrap": "^4.6.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "react-bootstrap": "^1.5.1"
+  }
+}
